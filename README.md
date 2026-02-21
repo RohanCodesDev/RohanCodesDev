@@ -16,7 +16,7 @@ const rohan = {
   location:    "🌍 Somewhere on Earth, coding away",
   currentWork: "🔭 Building awesome open-source projects",
   learning:    "🌱 Cloud Architecture & AI/ML",
-  askMeAbout:  ["Web Dev", "APIs", "Open Source", "Tech in general"],
+  askAboutMe:  ["Web Dev", "APIs", "Open Source", "Tech in general"],
   funFact:     "⚡ I debug with console.log and I'm not ashamed!",
   hobbies:     ["Coding 💻", "Gaming 🎮", "Hiking 🥾", "Coffee ☕"],
 };
