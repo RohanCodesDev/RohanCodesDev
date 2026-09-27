@@ -14,7 +14,7 @@
 
 <a href="https://github.com/RohanCodesDev">
   <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-7DD3FC?style=for-the-badge&logo=github&logoColor=black" alt="Open to collaborate" />
-  <img src="https://img.shields.io/badge/Focus-Full-Stack%20Development-22C55E?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-22C55E?style=for-the-badge" alt="Focus: Full-Stack Development" />
   <img src="https://img.shields.io/badge/Location-Worldwide-8B5CF6?style=for-the-badge" alt="Location" />
 </a>
 
@@ -101,7 +101,7 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanCodesDev&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=RohanCodesDev&theme=tokyonight&hide_border=true" width="620" alt="GitHub Streak" />
 
 </div>
 
@@ -128,9 +128,8 @@ const rohan = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanCodesDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/RohanCodesDev)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/RohanCodesDev)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/RohanCodesDev)
+[![Repositories](https://img.shields.io/badge/Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanCodesDev?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/RohanCodesDev?style=for-the-badge&logo=github&label=Followers)](https://github.com/RohanCodesDev?tab=followers)
 
 </div>
 
@@ -138,13 +137,9 @@ const rohan = {
 
 <div align="center">
 
-### 👀 Profile Views
+### 👀 Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=RohanCodesDev&style=for-the-badge&color=blueviolet)
-
-### 💡 A Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![GitHub Profile](https://img.shields.io/badge/View%20Profile-RohanCodesDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohanCodesDev)
 
 </div>
 
@@ -155,4 +150,3 @@ const rohan = {
 </div>
 
 > “Code is not just what you build — it’s how you think, solve, and improve the world around you.”
-
