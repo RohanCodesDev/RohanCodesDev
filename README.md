@@ -93,9 +93,9 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohanCodesDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="190" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=RohanCodesDev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;rank_icon=github" height="190" alt="GitHub Stats" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodesDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="190" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCodesDev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="190" alt="Top Languages" />
 
 </div>
 
@@ -117,7 +117,7 @@ const rohan = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanCodesDev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanCodesDev&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="100%" alt="Contribution Graph" />
 
 </div>
 
